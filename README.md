@@ -46,45 +46,60 @@ authentication_system/
 └── server.js
 
 
+
+````markdown
 ## Installation
 
 1. Clone the repository:
 
 ```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
+````
 
 2. Install dependencies:
+
+```bash
 npm install
+```
 
 3. Configure your environment variables.
 
 4. Start the server:
-npm start
 
-##API Testing
+```bash
+npm start
+```
+
+## API Testing
 
 The APIs can be tested using Postman.
 
-##Authentication Flow
+## Authentication Flow
 
 The authentication flow includes:
 
-Registering a new user
-Receiving an access token
-Using the token for authenticated requests
-Retrieving the current user's information
-Refreshing the authentication token
-Handling duplicate registration attempts
+* Registering a new user
+* Receiving an access token
+* Using the token for authenticated requests
+* Retrieving the current user's information
+* Refreshing the authentication token
+* Handling duplicate registration attempts
 
-##Security
-Passwords are securely hashed before being stored.
-JWT is used for authentication.
-Protected routes require a valid authentication token.
+## Security
 
-##Author
+* Passwords are securely hashed before being stored.
+* JWT is used for authentication.
+* Protected routes require a valid authentication token.
+
+## Author
 
 Radha Meenakshi
 
-##License
+## License
 
 This project is created for learning and development purposes.
+
+```
+```
+
+
