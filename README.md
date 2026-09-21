@@ -47,13 +47,13 @@ authentication_system/
 
 
 
-````markdown
+
 ## Installation
 
 1. Clone the repository:
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/Radhameenakshi/authentication-system.git>
 ````
 
 2. Install dependencies:
