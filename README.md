@@ -50,11 +50,10 @@ authentication_system/
 
 ## Installation
 
-1. Clone the repository:
 
 ```bash
 git clone <https://github.com/Radhameenakshi/authentication-system.git>
-````
+```
 
 2. Install dependencies:
 
