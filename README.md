@@ -45,7 +45,9 @@ authentication_system/
 ├── package-lock.json
 └── server.js
 
-Installation
+
+
+##Installation
 -Clone the repository:
 git clone <YOUR_GITHUB_REPOSITORY_URL>
 -Install dependencies:
@@ -53,11 +55,13 @@ npm install
 Configure your environment variables.
 -Start the server:
 npm start
-API Testing
+
+
+##API Testing
 
 The APIs can be tested using Postman.
 
-Authentication Flow
+##Authentication Flow
 
 The authentication flow includes:
 
@@ -67,11 +71,13 @@ Using the token for authenticated requests
 Retrieving the current user's information
 Refreshing the authentication token
 Handling duplicate registration attempts
-Security
+
+##Security
 Passwords are securely hashed before being stored.
 JWT is used for authentication.
 Protected routes require a valid authentication token.
-Author
+
+##Author
 
 Radha Meenakshi
 
