@@ -46,16 +46,20 @@ authentication_system/
 └── server.js
 
 
+## Installation
 
-##Installation
--Clone the repository:
+1. Clone the repository:
+
+```bash
 git clone <YOUR_GITHUB_REPOSITORY_URL>
--Install dependencies:
-npm install
-Configure your environment variables.
--Start the server:
-npm start
 
+2. Install dependencies:
+npm install
+
+3. Configure your environment variables.
+
+4. Start the server:
+npm start
 
 ##API Testing
 
@@ -81,6 +85,6 @@ Protected routes require a valid authentication token.
 
 Radha Meenakshi
 
-License
+##License
 
 This project is created for learning and development purposes.
