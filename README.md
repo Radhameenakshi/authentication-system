@@ -46,10 +46,7 @@ authentication_system/
 └── server.js
 
 
-
-
 ## Installation
-
 
 ```bash
 git clone <https://github.com/Radhameenakshi/authentication-system.git>
